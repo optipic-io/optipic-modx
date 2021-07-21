@@ -25,7 +25,7 @@ switch ($modx->event->name) {
             $settings = $optipic->getSettings();
             
             if ($currentHost) {
-                $srcJs = 'https://optipic.io/api/cp/stat?domain='.$currentHost.'&sid='.$settings['site_id'].'&cms=modx&stype=cdn&append_to=%23modx-panel-element-properties&version=1.15.0'; 
+                $srcJs = 'https://optipic.io/api/cp/stat?domain='.$currentHost.'&sid='.$settings['site_id'].'&cms=modx&stype=cdn&append_to=%23modx-panel-element-properties&version=1.19.0'; 
                 $modx->regClientStartupHTMLBlock('<script>
 window.setTimeout(function() {
     var s = document.createElement("script");

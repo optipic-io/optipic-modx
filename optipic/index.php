@@ -32,7 +32,7 @@ $modx->setLogTarget(XPDO_CLI_MODE ? 'ECHO' : 'HTML');
 
 $modx->loadClass('transport.modPackageBuilder','',false, true);
 $builder = new modPackageBuilder($modx);
-$builder->createPackage('optipic','1.15.0');
+$builder->createPackage('optipic','1.19.0');
 $builder->registerNamespace('optipic',false,true,'{core_path}components/optipic/');
 
 $plugin = $modx->newObject('modPlugin');
