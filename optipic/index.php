@@ -1,6 +1,6 @@
 <?php
 /**
- * Optipic build script
+ * Optipic build script 
  *
  * @package optipic
  * @subpackage build
