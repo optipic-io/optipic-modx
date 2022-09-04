@@ -69,7 +69,9 @@ Change other plugin settings if necessary
   ```
 
 * **Site pages that do not include auto-replace**
-Each on a new line and must start with a slash (/)
+  ```
+  Each on a new line and must start with a slash (/)
+  ```
 
 * **Replace only URLs of images starting with a mask**
   ```
