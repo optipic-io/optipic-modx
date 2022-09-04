@@ -1,11 +1,10 @@
-# WebP convert images MODX in 2 clicks - OptiPic CDN ready plugin
+# WebP convert images MODx in 2 clicks - OptiPic CDN ready plugin
 
-> Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights. Solves the problem 'Serve images in next-gen formats'. Easy connection to MODX.
+> Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights. Solves the problem 'Serve images in next-gen formats'. Easy connection to MODx.
 
- **[[Download plugin]](https://github.com/optipic-io/optipic-modx/releases/download/1.19.0/optipic-1.19.0.transport.zip)**
+[![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-modx/releases/download/1.19.0/optipic-1.19.0.transport.zip)
 
-## How to convert to WebP all the images on the MODX
-> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
+## How to convert to WebP all the images on the MODx> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
 
 - [181 reviews](https://optipic.io/en/cdn/reviews/) ⭐⭐⭐⭐⭐
 - According to recommendations Google PageSpeed Insights
@@ -27,27 +26,29 @@
 *Convertation to Webp and image compression occurs in the background and does not slow down the opening of images on the browser.
 If the optimized version is not yet ready at the time of the image request, the original version is returned without any processing.*
 
-[![Download](https://optipic.io/images/download-button-w200.png)](https://github.com/optipic-io/optipic-modx/releases/download/1.19.0/optipic-1.19.0.transport.zip)
+[![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-modx/releases/download/1.19.0/optipic-1.19.0.transport.zip)
 
-## Video instruction for configuring the module MODX
+## Video instruction for configuring the module MODx
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ABqTQXPTCyM/0.jpg)](https://www.youtube.com/watch?v=ABqTQXPTCyM)
 
-## 5 easy steps to connect WebP to MODX
-### Step #1: Download plugin MODX WebP
-Download and install the official CDN OptiPic plugin for MODX on your site.
+## 5 easy steps to connect WebP to MODx
+### Step #1: Download plugin MODx WebP
+Download and install the official CDN OptiPic plugin for MODx on your site.
 
 ### Step #2: Sign up for OptiPic CDN
 Register in your OptiPic CDN account and add a new site to your CDN control panel.
+![Step 1](https://optipic.io/img/cdn/install-instruction/en/step-2.png)
 
 ### Step #3: Copy site ID
 Copy the ID of the created website to the clipboard (Ctrl + C)
+![Step 1](https://optipic.io/img/cdn/install-instruction/en/step-3.png)
 
-### Step #4: Paste the site ID into the plugin MODX WebP
+### Step #4: Paste the site ID into the plugin MODx WebP
 Go to the settings page of the previously installed plugin on your site.
 Paste the copied site ID into the corresponding settings field.
 
 ### Step #5: Save your settings
-Save plugin settings. Clear the cache in the control panel MODX.
+Save plugin settings. Clear the cache in the control panel MODx.
 Change other plugin settings if necessary
 
 ## Description of plugin settings
@@ -69,7 +70,8 @@ Change other plugin settings if necessary
 
 * **Site pages that do not include auto-replace**
 Each on a new line and must start with a slash (/)
-**Replace only URLs of images starting with a mask**
+
+* **Replace only URLs of images starting with a mask**
   ```
   Each on a new line and must start with a slash (/)
   Examples:
