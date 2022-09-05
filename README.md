@@ -1,10 +1,15 @@
 # WebP convert images MODx in 2 clicks - OptiPic CDN ready plugin
 
-> Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights. Solves the problem 'Serve images in next-gen formats'. Easy connection to MODx.
+> Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights.  
+> Solves the problem "Serve images in next-gen formats".  
+> Easy connection to MODx. 
+
+[https://optipic.io/en/webp/modx/](https://optipic.io/en/webp/modx/)
 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-modx/releases/download/1.19.0/optipic-1.19.0.transport.zip)
 
-## How to convert to WebP all the images on the MODx> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
+## How to convert to WebP all the images on the MODx 
+> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
 
 - [181 reviews](https://optipic.io/en/cdn/reviews/) ⭐⭐⭐⭐⭐
 - According to recommendations Google PageSpeed Insights
@@ -29,9 +34,10 @@ If the optimized version is not yet ready at the time of the image request, the 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-modx/releases/download/1.19.0/optipic-1.19.0.transport.zip)
 
 ## Video instruction for configuring the module MODx
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ABqTQXPTCyM/0.jpg)](https://www.youtube.com/watch?v=ABqTQXPTCyM)
+[![Video instruction for configuring the module MODx](https://img.youtube.com/vi/ABqTQXPTCyM/0.jpg)](https://www.youtube.com/watch?v=ABqTQXPTCyM)
 
 ## 5 easy steps to connect WebP to MODx
+
 ### Step #1: Download plugin MODx WebP
 Download and install the official CDN OptiPic plugin for MODx on your site.
 
