@@ -4,6 +4,23 @@
 > Solves the problem "Serve images in next-gen formats".  
 > Easy connection to MODx. 
 
+<sup>|</sup>
+<sup>[English](https://optipic.io/en/webp/modx/) | </sup>
+<sup>[Español](https://optipic.io/es/webp/modx/) | </sup>
+<sup>[Deutsch](https://optipic.io/de/webp/modx/) | </sup>
+<sup>[Türk](https://optipic.io/tr/webp/modx/) | </sup>
+<sup>[Français](https://optipic.io/fr/webp/modx/) | </sup>
+<sup>[Italiano](https://optipic.io/it/webp/modx/) | </sup>
+<sup>[Português](https://optipic.io/pt/webp/modx/) | </sup>
+<sup>[Polski](https://optipic.io/pl/webp/modx/) | </sup>
+<sup>[Čeština](https://optipic.io/cz/webp/modx/) | </sup>
+<sup>[Русский](https://optipic.io/ru/webp/modx/) | </sup>
+<sup>[Беларуская](https://optipic.io/by/webp/modx/) | </sup>
+<sup>[中国](https://optipic.io/cn/webp/modx/) | </sup>
+<sup>[日本](https://optipic.io/jp/webp/modx/) | </sup>
+<sup>[বেঙ্গল](https://optipic.io/bn/webp/modx/) | </sup>
+<sup>[한국인](https://optipic.io/ko/webp/modx/) | </sup>
+
 [https://optipic.io/en/webp/modx/](https://optipic.io/en/webp/modx/)
 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-modx/releases/download/1.19.0/optipic-1.19.0.transport.zip)
